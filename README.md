@@ -35,6 +35,10 @@ This repository contains a Streamlit deployment for a churn prediction model bui
 
 5. Open your browser at `http://localhost:8501`.
 
+## App preview
+
+![Sales & Marketing Churn Prediction app](streamlit_screenshot.png)
+
 ## Deployment to Streamlit Cloud
 
 1. Commit all repository files to a GitHub repository.
